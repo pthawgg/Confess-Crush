@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu bé nhiềuuuuu',
     messDesc: 'Bên anh lâu nhất có thể nhée☺️',
     btnAccept: 'Dạaa <3',
-    messLink: 'https://p.thawgg/yeu.pchii
+    messLink: 'https://p.thawgg/yeu.pchii'
 }
